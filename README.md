@@ -60,7 +60,7 @@
 
 4.[迈德威视驱动](https://www.mindvision.com.cn/category/software/)
 
-5.由于策略模型中有超过100M的文件，所以采用Git LFS进行存储，需要安装Git LFS才能正常拉取，[安装方法](https://git-lfs.github.com/)
+5.由于策略模型中有超过100M的文件`/Utils/policy/models/all_states.pickle`，所以采用Git LFS进行存储，需要安装Git LFS才能正常拉取，[安装方法](https://git-lfs.github.com/)
 
 ## 开源许可
 
