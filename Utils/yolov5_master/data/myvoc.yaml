@@ -1,0 +1,8 @@
+train: D:\xiaosai\yolov5\VOCData\dataSet_path\train.txt
+val: D:\xiaosai\yolov5\VOCData\dataSet_path\val.txt
+
+# number of classes
+nc: 4
+
+# class names
+names: ["red","blue","purple","basket"]

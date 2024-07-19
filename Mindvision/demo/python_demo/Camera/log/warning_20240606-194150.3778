@@ -1,0 +1,5 @@
+Log file created at: 2024/06/06 19:41:50
+Running on machine: sprrc-M9-PRO
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0606 19:41:50.937274  3798 MVCameraBase.cpp:99] Device:(name:MV-SUA133GC#0 sn:048042110226)Lost
+W0606 19:41:53.522485  3798 MVCameraBase.cpp:119] Device:(name:MV-SUA133GC#0 sn:048042110226)ReConnected, TolCount:1
