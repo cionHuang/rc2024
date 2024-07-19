@@ -1,0 +1,18 @@
+RC规则：
+红方和蓝方假设各有无数个各自颜色的球，场地上有五个球框可放球，每个球框最多可放3个球，比赛开始后，双方随意放球。如果任意3 个球框满足以下条件则获胜：球框装满且每个球框至少有 2 个与本队同色的球、最上面的球与本队同色。
+
+命令：    
+pip install autopep8
+
+设置的json：
+
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Args": [
+        "--aggressive",
+        "--max-line-length=120",
+        "--ignore=E402",
+        "--exclude=venv",
+        "--ignore-local-config"
+    ],
