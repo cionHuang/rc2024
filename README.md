@@ -60,6 +60,8 @@
 
 4.[迈德威视驱动](https://www.mindvision.com.cn/category/software/)
 
+5.由于策略模型中有超过100M的文件，所以采用Git LFS进行存储，需要安装Git LFS才能正常拉取，[安装方法](https://git-lfs.github.com/)
+
 ## 开源许可
 
 本项目采用MIT许可证。详细信息请参阅LICENSE文件
